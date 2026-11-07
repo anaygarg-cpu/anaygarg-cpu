@@ -6,18 +6,11 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=anaygarg-cpu&label=PROFILE%20VIEWS&color=ff1493&style=flat" alt="Profile Views" />
-<a href="https://github.com/anaygarg-cpu?tab=followers"><img src="https://img.shields.io/github/followers/anaygarg-cpu?label=FOLLOWERS&style=flat&color=ff1493&labelColor=161b22" alt="Followers" /></a>
-
-<br/><br/>
-
-<a href="https://github.com/anaygarg-cpu"><img src="https://img.shields.io/badge/%2B%20Follow%20on%20GitHub-ff1493?style=for-the-badge&labelColor=ff1493&logoColor=0d1117" alt="Follow on GitHub" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-222b33?style=for-the-badge&logo=gmail&logoColor=00dbe9" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-222b33?style=for-the-badge&logo=linkedin&logoColor=00dbe9" alt="LinkedIn" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=ff1493&center=true&vCenter=true&width=420&height=30&lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;Tech+Innovator" alt="Typing SVG" />
+<a href="https://github.com/anaygarg-cpu"><img src="https://img.shields.io/badge/Follow-GitHub-ff1493?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="Follow on GitHub" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-ff1493?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-Connect-ff1493?style=flat-square&labelColor=161b22" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=anaygarg-cpu&label=Views&color=ff1493&style=flat-square&labelColor=161b22" alt="Profile Views" />
+<a href="https://github.com/anaygarg-cpu?tab=followers"><img src="https://img.shields.io/github/followers/anaygarg-cpu?label=Followers&style=flat-square&color=ff1493&labelColor=161b22" alt="Followers" /></a>
 
 </div>
 
