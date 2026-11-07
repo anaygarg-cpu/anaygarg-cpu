@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="276" viewBox="0 0 830 276" fill="none">
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.p{animation:pulse 1.8s ease-in-out infinite}
+</style>
+<rect x=".5" y=".5" width="829" height="275" rx="10" fill="#060f16" stroke="#2a313a"/>
+<path d="M.5 10.5a10 10 0 0110-10h809a10 10 0 0110 10V40H.5z" fill="#182028"/>
+<circle cx="26" cy="21" r="6" fill="#ffb4ab"/><circle cx="46" cy="21" r="6" fill="#00a0aa"/><circle cx="66" cy="21" r="6" fill="#00dbe9"/>
+<text x="415" y="25" text-anchor="middle" class="m" font-size="12" fill="#e3bdc7">anay.config.json</text>
+
+<text x="28" y="76" class="m" font-size="14" fill="#ff1493">&gt;</text>
+<text x="48" y="76" class="m" font-size="14" fill="#dae3ee">anay.<tspan fill="#ff1493">currentFocus</tspan>()</text>
+<text x="48" y="100" class="m" font-size="13" fill="#e3bdc7">"Learning Java, DSA &amp; modern web development"</text>
+
+<text x="28" y="138" class="m" font-size="14" fill="#ff1493">&gt;</text>
+<text x="48" y="138" class="m" font-size="14" fill="#dae3ee">anay.<tspan fill="#dcb8ff">learningGoals</tspan>()</text>
+<text x="48" y="162" class="m" font-size="13" fill="#e3bdc7">"Advanced algorithms, version control &amp; problem-solving"</text>
+
+<text x="28" y="200" class="m" font-size="14" fill="#ff1493">&gt;</text>
+<text x="48" y="200" class="m" font-size="14" fill="#dae3ee">anay.<tspan fill="#00dbe9">whatIDo</tspan>()</text>
+<text x="48" y="224" class="m" font-size="13" fill="#e3bdc7">"Responsive web layouts, logic &amp; foundational solutions"</text>
+
+<circle cx="32" cy="256" r="4" fill="#00dbe9" class="p"/>
+<text x="46" y="260" class="m" font-size="12" fill="#e3bdc7">process completed · ready for input</text>
+</svg>
