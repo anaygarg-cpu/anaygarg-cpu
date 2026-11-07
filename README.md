@@ -60,8 +60,7 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaygarg-cpu&show_icons=true&hide_border=true&bg_color=161b22&title_color=ffb0ca&icon_color=ff1493&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaygarg-cpu&layout=compact&hide_border=true&bg_color=161b22&title_color=ffb0ca&text_color=c9d1d9&langs_count=6" alt="Top Languages" height="170" />
+  <img src="https://streak-stats.demolab.com?user=anaygarg-cpu&background=161B22&border=2A313A&ring=FF1493&fire=FF1493&currStreakNum=F0F6FC&currStreakLabel=FFB0CA&sideNums=F0F6FC&sideLabels=8B949E&dates=8B949E&stroke=2A313A" alt="Streak Stats" width="100%" />
 </div>
 
 <br/>
