@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**anaygarg-cpu/anaygarg-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi There, I'm Anay 👋</h1>
 
-Here are some ideas to get you started:
+<a href="https://github.com/anaygarg-cpu">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=ff1493&center=true&vCenter=true&width=480&height=40&lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;Tech+Innovator" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=anaygarg-cpu&label=PROFILE%20VIEWS&color=ff1493&style=flat" alt="Profile Views" />
+<a href="https://github.com/anaygarg-cpu?tab=followers">
+  <img src="https://img.shields.io/github/followers/anaygarg-cpu?label=FOLLOWERS&style=flat&color=ff1493&labelColor=1a1a1a" alt="Followers" />
+</a>
+
+</div>
+
+<br/>
+
+## 📊 2026 Contributions
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anaygarg-cpu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ff1493&text_color=c9d1d9&ring_color=ff1493&count_private=true&include_all_commits=true&custom_title=2026%20Contributions" alt="2026 Contributions" width="460" />
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Currently%20Learning-C-ff1493?style=flat&logo=c&logoColor=white&labelColor=1a1a1a" alt="Learning C" height="32" />
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+- 💻 **What I Do:** Building responsive web layouts, exploring logic, and structuring foundational coding solutions
+- 🎯 **Current Focus:** Mastering core programming, exploring Data Structures & Algorithms, and web development
+- 🌱 **Learning Goals:** Advanced algorithms, mastering version control, and problem-solving
+- 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/your-linkedin-id) · [your.email@example.com](mailto:your.email@example.com)
+
+<br/>
+
+## 🎮 Upcoming Projects
+
+<div align="center">
+
+| 🌐 Responsive Landing Page | ⌨️ Command-Line Utility | 🧠 Logic & DSA Repository |
+| :---: | :---: | :---: |
+| A clean, mobile-first landing page blueprint. | A lightweight terminal tool for core programming practice. | Problem-solving exercises and algorithm practice. |
+| ![HTML](https://img.shields.io/badge/HTML-ff1493?style=flat&logo=html5&logoColor=white&labelColor=1a1a1a) ![CSS](https://img.shields.io/badge/CSS-ff1493?style=flat&logo=css3&logoColor=white&labelColor=1a1a1a) | ![C](https://img.shields.io/badge/C-ff1493?style=flat&logo=c&logoColor=white&labelColor=1a1a1a) ![CLI](https://img.shields.io/badge/CLI-ff1493?style=flat&logo=gnubash&logoColor=white&labelColor=1a1a1a) | ![C](https://img.shields.io/badge/C-ff1493?style=flat&logo=c&logoColor=white&labelColor=1a1a1a) ![DSA](https://img.shields.io/badge/DSA-ff1493?style=flat&labelColor=1a1a1a) |
+| 🚧 *Coming Soon* | 🚧 *Coming Soon* | 🚧 *Coming Soon* |
+| [View Blueprint →](https://github.com/anaygarg-cpu) | [View Blueprint →](https://github.com/anaygarg-cpu) | [View Blueprint →](https://github.com/anaygarg-cpu) |
+
+</div>
+
+<br/>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anaygarg-cpu&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaygarg-cpu&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
+</div>
+
+<br/>
+
+<div align="center">
+
+⭐ **Anay Garg** ⭐
+
+</div>
