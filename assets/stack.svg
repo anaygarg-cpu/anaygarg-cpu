@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="170" viewBox="0 0 830 170" fill="none">
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace} .s{font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}
+</style>
+<rect x=".5" y=".5" width="829" height="169" rx="10" fill="#161b22" stroke="#2a313a"/>
+<text x="28" y="40" class="s" font-size="17" font-weight="600" fill="#dae3ee">Tech Stack &amp; Skills</text>
+<text x="802" y="38" text-anchor="end" class="m" font-size="10" font-weight="600" letter-spacing="1.2" fill="#aa8892">CORE ARSENAL</text>
+<rect x="24" y="58" width="782" height="44" rx="8" fill="#222b33"/>
+<text x="42" y="85" class="m" font-size="13" font-weight="600" fill="#ffb0ca">Currently Learning: Java</text>
+<rect x="652" y="72" width="136" height="16" rx="8" fill="#182028"/>
+<rect x="652" y="72" width="136" height="16" rx="8" fill="#ff1493" opacity=".9"><animate attributeName="width" values="20;136;20" dur="6s" repeatCount="indefinite"/></rect>
+
+<rect x="24" y="120" width="154" height="32" rx="6" fill="#222b33"/><circle cx="40" cy="136" r="4" fill="#ff1493"/><text x="52" y="140" class="m" font-size="12" fill="#dae3ee">Java · learning</text>
+<rect x="188" y="120" width="139" height="32" rx="6" fill="#222b33"/><circle cx="204" cy="136" r="4" fill="#00dbe9"/><text x="216" y="140" class="m" font-size="12" fill="#dae3ee">C · completed</text>
+<rect x="337" y="120" width="245" height="32" rx="6" fill="#222b33"/><circle cx="353" cy="136" r="4" fill="#dcb8ff"/><text x="365" y="140" class="m" font-size="12" fill="#dae3ee">Data Structures · exploring</text>
+<rect x="592" y="120" width="184" height="32" rx="6" fill="#222b33"/><circle cx="608" cy="136" r="4" fill="#ffb0ca"/><text x="620" y="140" class="m" font-size="12" fill="#dae3ee">Web Dev · exploring</text>
+</svg>
