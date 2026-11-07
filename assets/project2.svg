@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="266" height="220" viewBox="0 0 266 220" fill="none">
+<defs><filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="28"/></filter></defs>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace} .s{font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}
+</style>
+<rect x=".5" y=".5" width="265" height="219" rx="10" fill="#161b22" stroke="#2a313a"/>
+<circle cx="250" cy="-10" r="40" fill="#dcb8ff" opacity=".18" filter="url(#b)"/>
+<text x="22" y="46" font-size="22">⌨️</text>
+<rect x="136" y="26" width="108" height="22" rx="4" fill="#2d363e"/>
+<text x="190" y="41" text-anchor="middle" class="m" font-size="10" font-weight="700" letter-spacing="1" fill="#dcb8ff">COMING SOON</text>
+<text x="22" y="84" class="s" font-size="16" font-weight="600" letter-spacing="-.3" fill="#f0f6fc">Command-Line Utility</text>
+<text x="22" y="112" class="s" font-size="12" fill="#e3bdc7">Lightweight terminal tool for</text>
+<text x="22" y="131" class="s" font-size="12" fill="#e3bdc7">core fundamentals in Java.</text>
+<text x="22" y="190" class="m" font-size="11" font-weight="600" fill="#dcb8ff">Java · CLI</text>
+<rect x="150" y="172" width="96" height="28" rx="6" fill="#222b33"/>
+<text x="198" y="190" text-anchor="middle" class="m" font-size="11" fill="#f0f6fc">Explore →</text>
+</svg>
