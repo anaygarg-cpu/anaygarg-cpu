@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="300" viewBox="0 0 830 300" fill="none">
+<defs><filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="28"/></filter><clipPath id="c"><rect width="830" height="300" rx="10"/></clipPath></defs>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace} .s{font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.p{animation:pulse 1.8s ease-in-out infinite}
+@keyframes r1{0%,28%{opacity:1}33%,95%{opacity:0}100%{opacity:1}}
+@keyframes r2{0%,30%{opacity:0}34%,61%{opacity:1}66%,100%{opacity:0}}
+@keyframes r3{0%,63%{opacity:0}67%,94%{opacity:1}98%,100%{opacity:0}}
+.r2,.r3{opacity:0} .r1{animation:r1 9s infinite} .r2{animation:r2 9s infinite} .r3{animation:r3 9s infinite}
+</style>
+<rect x=".5" y=".5" width="829" height="299" rx="10" fill="#161b22" stroke="#2a313a"/>
+<g clip-path="url(#c)"><circle cx="760" cy="20" r="90" fill="#ff1493" opacity=".22" filter="url(#b)"/><circle cx="40" cy="300" r="80" fill="#8a2be2" opacity=".28" filter="url(#b)"/></g>
+<rect x="32" y="32" width="84" height="84" rx="12" fill="#222b33"/>
+<g transform="translate(56 56) scale(1.5)" fill="#ffb0ca"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></g>
+<circle cx="112" cy="112" r="13" fill="#00dbe9"/>
+<path d="M106 112l4 4 8-8" stroke="#00363a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="618" y="32" width="180" height="30" rx="15" fill="#222b33"/>
+<circle cx="636" cy="47" r="4" fill="#00dbe9" class="p"/>
+<text x="648" y="51" class="m" font-size="12" font-weight="600" fill="#00dbe9">Learning Java</text>
+<text x="32" y="162" class="s" font-size="42" font-weight="700" letter-spacing="-1.2" fill="#ffb0ca">Anay Garg</text>
+<rect x="32" y="178" width="300" height="32" rx="6" fill="#2d363e" opacity=".7"/>
+<text x="46" y="199" class="m" font-size="13" fill="#00dbe9">&gt;_</text>
+<text x="72" y="199" class="m r1" font-size="13" fill="#dae3ee">B.Tech CSE Student</text>
+<text x="72" y="199" class="m r2" font-size="13" fill="#dae3ee">Aspiring Software Engineer</text>
+<text x="72" y="199" class="m r3" font-size="13" fill="#dae3ee">Tech Innovator</text>
+<rect x="32" y="228" width="247.3" height="56" rx="8" fill="#182028"/>
+<text x="155.7" y="253" text-anchor="middle" class="s" font-size="20" font-weight="700" fill="#ffb0ca">Year 1</text>
+<text x="155.7" y="272" text-anchor="middle" class="m" font-size="10" font-weight="600" letter-spacing="1.2" fill="#aa8892">B.TECH · CSE</text>
+<rect x="291.3" y="228" width="247.3" height="56" rx="8" fill="#182028"/>
+<text x="415" y="253" text-anchor="middle" class="s" font-size="20" font-weight="700" fill="#dcb8ff">Java</text>
+<text x="415" y="272" text-anchor="middle" class="m" font-size="10" font-weight="600" letter-spacing="1.2" fill="#aa8892">LEARNING</text>
+<rect x="550.7" y="228" width="247.3" height="56" rx="8" fill="#182028"/>
+<text x="674.3" y="253" text-anchor="middle" class="s" font-size="20" font-weight="700" fill="#00dbe9">C</text>
+<text x="674.3" y="272" text-anchor="middle" class="m" font-size="10" font-weight="600" letter-spacing="1.2" fill="#aa8892">COMPLETED ✓</text>
+</svg>
