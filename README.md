@@ -26,7 +26,7 @@
 ## 📊 2026 Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaygarg-cpu&show_icons=true&hide_border=true&bg_color=161b22&title_color=ffb0ca&icon_color=ff1493&text_color=c9d1d9&ring_color=ff1493&count_private=true&include_all_commits=true&custom_title=2026%20Contributions" alt="2026 Contributions" width="100%" />
+  <img src="https://ghchart.rshah.org/ff1493/anaygarg-cpu" alt="2026 Contributions" width="100%" />
 </div>
 
 <br/>
