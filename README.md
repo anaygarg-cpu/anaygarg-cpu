@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="mailto:anaygarg2008@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="40" /></a>
+<a href="mailto:anaygarg2008@gmail.com"><img src="./assets/btn-email-pink.svg" alt="Email" height="40" /></a>
 <a href="https://www.linkedin.com/in/your-linkedin-id"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="40" /></a>
 
 </div>
