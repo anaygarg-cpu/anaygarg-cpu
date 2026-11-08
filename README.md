@@ -6,8 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/anaygarg-cpu?tab=followers"><img src="./assets/btn-follow.svg" alt="Follow on GitHub" height="40" /></a>
-<a href="mailto:your.email@example.com"><img src="./assets/btn-email.svg" alt="Email" height="40" /></a>
+<a href="mailto:anaygarg2008@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="40" /></a>
 <a href="https://www.linkedin.com/in/your-linkedin-id"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="40" /></a>
 
 </div>
